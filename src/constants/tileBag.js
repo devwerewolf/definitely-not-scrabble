@@ -1,10 +1,8 @@
-import { X, Y, Z } from "./letterTiles.js";
+import { A, X, Y, Z } from "./letterTiles.js";
 
 export const initialTileBag = [
-  X,
-  Y,
-  Y,
-  Y,
-  Z,
-  Z,
+  A, A, A,
+  X, X, X, X, X,
+  Y, Y, Y,
+  Z, Z,
 ]
